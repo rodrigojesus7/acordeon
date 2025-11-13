@@ -50,6 +50,13 @@ body {
     flex-direction: column;
 }
 
+.faq-content-aberto{
+    border-top: solid 0.1rem var(--border);
+    border-bottom: solid 0.1rem var(--border);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
 
 .question {
     display: flex;
